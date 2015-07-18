@@ -33,24 +33,24 @@ Why: We want our users who find content they life to comeback. Because there is 
 ## Value
 
 Increase page view
-	[+] people come back
-	[+] create recirc in the email	
-	[+] sell more ads
+- [+] people come back
+- [+] create recirc in the email	
+- [+] sell more ads
  
 Increase number of uniques
-	[+] new devices, same person
-	[+] track people across devices	
-	[+] sell more ads
+- [+] new devices, same person
+- [+] track people across devices	
+- [+] sell more ads
 
 Target KPI
-	[+] Push over paywall
-	[+] Increase "high value" user
-	[+] Increase value of ads
+- [+] Push over paywall
+- [+] Increase "high value" user
+- [+] Increase value of ads
 	
 Increase input from subscription funnel
-	[+] More people hit paywall
-	[+] More people subscribe
-	[-] Potentially change the mechanics of subscription funnel
+- [+] More people hit paywall
+- [+] More people subscribe
+- [-] Potentially change the mechanics of subscription funnel
 
 ---
 
