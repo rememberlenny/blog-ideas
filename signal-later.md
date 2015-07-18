@@ -3,17 +3,22 @@
 ## PnS
 
 Problem: High number of users who start articles but leave
+
 Solution: Provide an obvious way to allow users to reengage
+***
 
 Problem: Users do not want to sign up to service
+
 Solution: Use a service they are already using to reach them.
-
+***
 Problem: You dont know what service the user uses to get reminders about stuff.
+
 Solution: There are some services that have a higher penetraion rate for usage. Start with email, then move to other services that are more common.
-
+***
 Problem: The platform doesnt want to build the stack to allow users to get remined of content.
-Solution: Create a service that services can use to reengage users.
 
+Solution: Create a service that services can use to reengage users.
+***
 ---
 
 ## WWWHW
